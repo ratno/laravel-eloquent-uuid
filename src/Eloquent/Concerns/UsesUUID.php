@@ -1,6 +1,6 @@
 <?php
 
-namespace Astrotomic\LaravelEloquentUuid\Eloquent\Concerns;
+namespace Ratno\LaravelEloquentUuid\Eloquent\Concerns;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;

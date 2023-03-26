@@ -1,6 +1,6 @@
 <?php
 
-namespace Astrotomic\LaravelEloquentUuid\Tests\Models;
+namespace Ratno\LaravelEloquentUuid\Tests\Models;
 
 class PostUuidKey extends PostUuidAttribute
 {

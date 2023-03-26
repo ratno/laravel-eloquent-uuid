@@ -1,8 +1,8 @@
 <?php
 
-namespace Astrotomic\LaravelEloquentUuid\Tests\Models;
+namespace Ratno\LaravelEloquentUuid\Tests\Models;
 
-use Astrotomic\LaravelEloquentUuid\Eloquent\Concerns\UsesUUID;
+use Ratno\LaravelEloquentUuid\Eloquent\Concerns\UsesUUID;
 use Illuminate\Database\Eloquent\Model;
 
 class PostUuidAttribute extends Model

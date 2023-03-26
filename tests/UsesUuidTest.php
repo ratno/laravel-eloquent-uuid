@@ -1,9 +1,9 @@
 <?php
 
-namespace Astrotomic\LaravelEloquentUuid\Tests;
+namespace Ratno\LaravelEloquentUuid\Tests;
 
-use Astrotomic\LaravelEloquentUuid\Tests\Models\PostUuidAttribute;
-use Astrotomic\LaravelEloquentUuid\Tests\Models\PostUuidKey;
+use Ratno\LaravelEloquentUuid\Tests\Models\PostUuidAttribute;
+use Ratno\LaravelEloquentUuid\Tests\Models\PostUuidKey;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Str;
 use InvalidArgumentException;

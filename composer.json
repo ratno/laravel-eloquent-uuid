@@ -1,6 +1,6 @@
 {
-    "name": "astrotomic/laravel-eloquent-uuid",
-    "description": "A simple drop-in solution for UUID support in your Eloquent models.",
+    "name": "ratno/laravel-eloquent-uuid",
+    "description": "A simple drop-in solution for UUID support in your Eloquent models. Fork from astrotomic updated to support L10",
     "license": "MIT",
     "type": "library",
     "keywords": [
@@ -34,12 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Astrotomic\\LaravelEloquentUuid\\": "src"
+            "Ratno\\LaravelEloquentUuid\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Astrotomic\\LaravelEloquentUuid\\Tests\\": "tests"
+            "Ratno\\LaravelEloquentUuid\\Tests\\": "tests"
         }
     },
     "config": {
